@@ -41,6 +41,14 @@ Welcome to my personal knowledge vault. This repository is a living document whe
 
 ## 🗂️ Repository Structure
 
+📁 mathematics/
+📁 computer-science/
+📁 philosophy/
+📁 statistics/
+📁 cosmology/
+📁 resources/          # Books, papers, links
+📁 notes/              # Daily learning notes
+
 ---
 
 ## 🎯 Goals
